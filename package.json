@@ -1,0 +1,25 @@
+{
+  "name": "github-hackbot",
+  "version": "1.0.0",
+  "description": "Do you want to be cool kid?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biswarup-bhattacharjee/github-hackbot.git"
+  },
+  "author": "BISWARUP BHATTACHARJEE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biswarup-bhattacharjee/github-hackbot/issues"
+  },
+  "homepage": "https://github.com/biswarup-bhattacharjee/github-hackbot#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.1",
+    "random": "^2.2.0",
+    "simple-git": "^2.31.0"
+  }
+}
